@@ -6,7 +6,7 @@ from merlin.io import Dataset
 # and merged into a single DataFrame that is split into train and test sets.
 # Let's call the merged DataFrame 'data'.
 
-data = pd.read_csv('data.csv')  # This is your preprocessed and merged dataset
+data = pd.read_csv('data.csv')  #git  This is your preprocessed and merged dataset
 
 # Split the data into training and testing sets
 # This is a placeholder; you'll need to split the data according to your needs.
